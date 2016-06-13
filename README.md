@@ -13,6 +13,7 @@ Questionable Permission:{u'com.ultimarom.launchnavigation': [u'RECEIVE_BOOT_COMP
 Description and Permission:{u'com.ultimarom.launchnavigation': [[u'This app is NOT a navigation app', [u'ACCESS_FINE_LOCATION']], [u"If you're like me, you'll miss this icon", []], [u'This app puts it back', []], [u"See the developers' sites for those kinds of issues", []], [u'Google removed the Navigation icon for Maps with an update', []], [u'Any issues regarding location, Maps crashing or internet use are not anything to do with this app', []], [u'It simply opens Google Navigation in one click, rather than a few', []]]}
 
 Result 0 indicates a successful invocation.
+
 ----------------------------------------------------------------------------------------------------
 If you would like to cite our work:
 @inproceedings{qu2014autocog,
